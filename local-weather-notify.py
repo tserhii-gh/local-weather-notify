@@ -48,4 +48,4 @@ send_notification(
     txt[4] + "%s м\n" % weather_data['M_VIS_1'] +
     txt[5] + "%s\n" % weather_data['MC_TypeWeather_Short_ua'] +
     txt[6] + "%s мм/год" % weather_data['M_WATER_1H'], 'gnome-weather')
-# Notify.uninit()
+Notify.uninit()
