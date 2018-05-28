@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Weather
+Icon=org.gnome.Weather.Application
+Exec=python local-weather-notify.py
+NoDisplay=false
+Categories=GTK;Utility;
+StartupNotify=false
+Terminal=false
