@@ -1,0 +1,1 @@
+Get local weather from server with notification popup
